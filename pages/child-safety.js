@@ -120,7 +120,7 @@ export default function ChildSafety() {
                   </p>
                   <div className="mt-4 border-2 border-black bg-[#0B0F17] p-4 text-white">
                     <p className="font-bold text-[#FF6B81]">Child Safety Response Officer & Team:</p>
-                    <p>📧 Email: <a href="mailto:fitandmeet.app@gmail.com" className="underline text-white">fitandmeet.app@gmail.com</a></p>
+                    <p>📧 Email: <a href="mailto:2digitinnovations@gmail.com" className="underline text-white">2digitinnovations@gmail.com</a></p>
                     <p>App / Developer: <strong>Open Book (com.openbook.datingapp)</strong></p>
                     <p>Response Time: Reports involving child safety are investigated and escalated within 24 hours.</p>
                   </div>

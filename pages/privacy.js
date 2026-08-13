@@ -187,7 +187,7 @@ export default function Privacy() {
                     <li>Strictly 18+ adult platform; minors are barred from registration.</li>
                     <li>Zero tolerance for grooming, exploitation, or sharing illegal abuse media.</li>
                     <li>Violations result in instant ban, content deletion, and mandatory NCMEC/law enforcement reporting.</li>
-                    <li>Dedicated Child Safety Team: <a href="mailto:fitandmeet.app@gmail.com" className="underline font-bold text-[#FF6B81]">fitandmeet.app@gmail.com</a>.</li>
+                    <li>Dedicated Child Safety Team: <a href="mailto:2digitinnovations@gmail.com" className="underline font-bold text-[#FF6B81]">2digitinnovations@gmail.com</a>.</li>
                     <li>Full policy: <Link href="/child-safety" className="font-bold underline text-[#9B51E0]">Read our Child Safety Standards</Link>.</li>
                   </ul>
                 </div>
@@ -203,7 +203,7 @@ export default function Privacy() {
                     If you have questions regarding this Privacy Policy or Open Book data practices, contact us at:
                   </p>
                   <div className="space-y-2 font-bold">
-                    <p>📧 Email: fitandmeet.app@gmail.com</p>
+                    <p>📧 Email: 2digitinnovations@gmail.com</p>
                   </div>
                 </div>
               </div>
