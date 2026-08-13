@@ -327,6 +327,7 @@ export default function Home() {
               <div className="flex flex-wrap justify-center gap-6 text-sm font-bold text-[#A0AEC0]">
                 <a href="#" className="transition-colors hover:text-white">TERMS OF SERVICE</a>
                 <Link href="/privacy" className="transition-colors hover:text-white">PRIVACY POLICY</Link>
+                <Link href="/child-safety" className="transition-colors hover:text-white">CHILD SAFETY STANDARDS</Link>
                 <a href="#" className="transition-colors hover:text-white">MOBILE APP</a>
                 <a href="#" className="transition-colors hover:text-white">CONTACT</a>
               </div>

@@ -171,6 +171,28 @@ export default function Privacy() {
                 </div>
               </div>
 
+              {/* Section 7 - Child Safety & CSAE Policy */}
+              <div className="border-4 border-black bg-white p-6 shadow-[6px_6px_0px_0px_rgba(0,0,0,1)] md:p-8">
+                <div className="mb-4 inline-block border-4 border-black bg-[#FF6B81] px-4 py-2">
+                  <span className="font-black text-white">07</span>
+                </div>
+                <h2 className="mb-4 text-2xl font-black text-black md:text-3xl">
+                  CHILD SAFETY STANDARDS & CSAE PROHIBITION
+                </h2>
+                <div className="space-y-3 text-[#2D3748] leading-relaxed font-medium">
+                  <p>
+                    Open Book strictly prohibits <strong>Child Sexual Abuse and Exploitation (CSAE)</strong> and Child Sexual Abuse Material (CSAM).
+                  </p>
+                  <ul className="ml-6 list-disc space-y-2">
+                    <li>Strictly 18+ adult platform; minors are barred from registration.</li>
+                    <li>Zero tolerance for grooming, exploitation, or sharing illegal abuse media.</li>
+                    <li>Violations result in instant ban, content deletion, and mandatory NCMEC/law enforcement reporting.</li>
+                    <li>Dedicated Child Safety Team: <a href="mailto:fitandmeet.app@gmail.com" className="underline font-bold text-[#FF6B81]">fitandmeet.app@gmail.com</a>.</li>
+                    <li>Full policy: <Link href="/child-safety" className="font-bold underline text-[#9B51E0]">Read our Child Safety Standards</Link>.</li>
+                  </ul>
+                </div>
+              </div>
+
               {/* Contact Section */}
               <div className="border-4 border-black bg-[#FF6B81] p-6 shadow-[8px_8px_0px_0px_rgba(0,0,0,1)] md:p-8">
                 <h2 className="mb-4 text-2xl font-black text-white md:text-3xl">
